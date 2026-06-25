@@ -1,4 +1,4 @@
-# MemoriesCanvas 📷
+# MemoriesCanvas 
 
 Diário visual interativo para registrar momentos, viagens e eventos marcantes. Projeto final da disciplina de Flutter — IFMS.
 
